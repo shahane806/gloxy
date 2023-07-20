@@ -305,7 +305,9 @@ font-size:xx-large;
     
   }
 @media only screen and (max-width: 900px) {
-   
+    .services{
+        margin-top:35%;
+    }
     .card1{
         grid-area:card1;
     
@@ -362,7 +364,9 @@ font-size:xx-large;
 }
 @media only screen and (max-width: 891px) {
     
-   
+    .services{
+        margin-top:35%;
+    }
      .info p{
          margin:1rem;
          color:white;
@@ -610,6 +614,9 @@ font-size:xx-large;
     }
   }
   @media only screen and (max-width: 693px) {
+      .services{
+        margin-top:90rem;
+    }
     .mainBody {
         background: url(./banner.png);
         background-repeat: no-repeat;
